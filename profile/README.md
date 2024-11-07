@@ -1,4 +1,4 @@
-# Praceando 🌸
+<center># Praceando 🌸<center/>
 
 ## Sobre Nós
 O **Praceando** é um aplicativo desenvolvido pela equipe **Blomera** com o objetivo de **incentivar o uso de espaços públicos** como parques e praças por meio da divulgação de eventos. Nosso propósito é tornar esses espaços mais acessíveis e convidativos para todos, promovendo sustentabilidade, lazer e a ocupação consciente das áreas urbanas.
